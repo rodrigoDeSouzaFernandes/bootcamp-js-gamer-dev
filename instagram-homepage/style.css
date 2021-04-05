@@ -52,7 +52,7 @@ body {
   align-items: center;
   justify-content: space-evenly;
   flex-direction: column;
-  padding: 30px;
+  padding: 20px 0;
   border: rgb(224, 224, 224) 1px solid;
   width: 50%;
 }
